@@ -119,7 +119,7 @@ Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the va
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone git@github.com:kamranahmedse/developer-roadmap.git
+git clone git@github.com:Alapipapi/developer-roadmap.git
 cd developer-roadmap
 npm install
 npm run dev
@@ -128,7 +128,7 @@ npm run dev
 Note: use the `depth` parameter to reduce the clone size and speed up the clone.
 
 ```sh
-git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
+git clone --depth=1 https://github.com/Alapipapi/developer-roadmap.git
 ```
 
 ## Contribution
